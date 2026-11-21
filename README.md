@@ -51,8 +51,8 @@ English, Deutsch, Français, Español
 📖 **Manual:** [Quick Guide (English, PDF)](docs/GrandMeister-Editor_Quick-Guide_EN.pdf) ·
 [Kurzanleitung (Deutsch, PDF)](docs/GrandMeister-Editor_Kurzanleitung_DE.pdf)
 
-🎬 **Demo film:** a short video tour (2:33 min, English and German) is attached to the
-[latest release](../../releases/latest).
+🎬 **Demo film (2:33 min):** [watch on YouTube (English)](https://youtu.be/WCA3SVyyYxQ) ·
+[auf YouTube ansehen (Deutsch)](https://youtu.be/CDIQXMvOJtY)
 
 ## Good to know
 
@@ -85,7 +85,7 @@ GrandMeister 36 / Deluxe 40 über USB-MIDI: Sound bearbeiten, Preset-Listen verw
 Verstärker abrufen und übertragen. Ohne Installation, Oberfläche in Deutsch, Englisch, Französisch und Spanisch.
 
 **[Download](../../releases/latest)** · [Kurzanleitung (PDF)](docs/GrandMeister-Editor_Kurzanleitung_DE.pdf) ·
-Vorführfilm (2:33 min) im [aktuellen Release](../../releases/latest)
+[Vorführfilm auf YouTube (2:33 min)](https://youtu.be/CDIQXMvOJtY)
 
 > **Beim ersten Start** zeigt Windows eventuell „Der Computer wurde durch Windows geschützt“. Dann auf
 > **Weitere Informationen → Trotzdem ausführen** klicken (oder vorab: Rechtsklick auf die Exe → Eigenschaften →
